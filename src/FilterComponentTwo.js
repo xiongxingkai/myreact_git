@@ -101,6 +101,7 @@ class SearchBox extends Component{
             this.props.changeInputVal(e.target.value);
         }
     }
+    // 渲染函数
     render() {
         return (
             <div>
